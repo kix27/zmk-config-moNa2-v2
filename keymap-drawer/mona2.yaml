@@ -40,7 +40,7 @@ layers:
   - BACKSPACE
   - {t: ENTER, h: L2}
   - {t: '&to_layer_0 LANG2', h: L3}
-  - {t: '&to_layer_0 LANG1', h: L3}
+  - {t: L1, h: toggle}
   - {t: SPACE, h: L1}
   - LEFT ALT
   L1:
@@ -83,7 +83,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {t: default, h: toggle}
   - {type: held}
   - {t: ▽, type: trans}
   L2:

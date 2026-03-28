@@ -27,7 +27,7 @@ layers:
   - C
   - V
   - B
-  - F14
+  - {t: BT DISC, h: '0'}
   - BT CLR
   - N
   - M
